@@ -1,13 +1,4 @@
-Advanced Software Engineering Homework 1
-Gary Chen gc2676
-Sample repo created using previous code
-
-
-
-
-2048 Solver - Artificial Intelligence
-Gary Chen
-gc2676
+2048 Game and Solver AI
 
 To run: From folder starter, python3 GameManager_3.py
 
