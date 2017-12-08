@@ -1,8 +1,6 @@
-2048 Game and Solver AI
+2048 Game + Solver AI
 
 To run: From folder starter, python3 GameManager_3.py
 
-The results between implementing just minimax and minimax with alpha beta pruning did not make a significant observable difference. I ran 5 tests with mimimax and 5 tests with mimimax + alpha beta pruning, and the average of the tests was ~200 lower, but that may have just been because one of the tests for minimax tests got 1024 instead of 2048 and pulled down the average. Pruning should help by reducing the run time so the search can run to a greater depth than without pruning in the alloted time.
-
-This assignment was done on python 3.
+The hi-score results between implementing just minimax and minimax with alpha beta pruning did not make a significant observable difference, however does decerease run time. Ran 5 tests with mimimax and 5 tests with mimimax + alpha beta pruning, and the average of the tests was ~200 lower, but may have just been because of outlier results that ended the game early. Pruning helps by reducing the run time so the search can run to a greater depth than without pruning in the alloted time.
 
